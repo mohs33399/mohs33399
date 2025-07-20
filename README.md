@@ -116,6 +116,20 @@ const mohamedSaleh = {
 - ⚡ Fun fact: **I can debug faster than I can explain the bug!** 🐛
 
 ---
+## <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="35"> **Let's Connect!**
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-saleh-software-engineer/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.saleh.aast@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohs33399)
+
+**📍 Location:** Cairo, Egypt | **⏰ Timezone:** GMT+2  
+**💼 Status:** Open for opportunities | **📧 Response Time:** Within 24 hours
+
+</div>
+
+---
 
 ## <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="35"> **Education & Training**
 
@@ -208,77 +222,11 @@ const mohamedSaleh = {
 
 ---
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> **GitHub Analytics**
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohs33399&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohs33399&layout=compact&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohs33399&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohs33399&theme=tokyonight&row=1&column=6" alt="GitHub Trophies"/>
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> **GitHub Activity**
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohs33399&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
-</div>
-
-### **Contribution Calendar**
-<div align="center">
-  <img src="https://ghchart.rshah.org/409ba5/mohs33399" alt="GitHub Contribution Chart" width="100%"/>
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="35"> **Let's Connect!**
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-saleh-software-engineer/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.saleh.aast@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohs33399)
-
-**📍 Location:** Cairo, Egypt | **⏰ Timezone:** GMT+2  
-**💼 Status:** Open for opportunities | **📧 Response Time:** Within 24 hours
-
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8AO/giphy.gif" width="35"> **GitHub Insights**
-
-<div align="center">
-  
-### **Coding Activity & Languages**
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohs33399&theme=tokyonight" width="100%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohs33399&theme=tokyonight" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohs33399&theme=tokyonight" width="49%"/>
-
-### **Productivity Stats**
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohs33399&theme=tokyonight" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohs33399&theme=tokyonight&utcOffset=2" width="49%"/>
-
-</div>
-
----
 
 
-## <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="35"> **Random Dev Meme**
 
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight" alt="Jokes Card" />
-</div>
 
----
+
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="35"> **Visitor Count**
 
