@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%" />  
+<img src="https://anku255.github.io/assets/img/posts/hello-world.jpg" align="center" width="60%" alt="Hello world"/>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Developer at work" width="40%" />
 
 </div>
@@ -37,15 +37,6 @@ I'm a passionate Full-Stack Developer with a solid foundation in Computer Scienc
 
 ---
 
-### 🏥 Healthcare Management System
-**In collaboration with Magdi Yacoub Heart Centre**
-
-- Digitized patient records and hospital workflows  
-- Enhanced operational efficiency and patient experience  
-- Designed with healthcare best practices  
-- **Tech Stack:** `React.js`, `Python`, `Django`, `MySQL`
-
----
 
 ## 🛠️ Tech Stack
 
@@ -93,12 +84,12 @@ I'm a passionate Full-Stack Developer with a solid foundation in Computer Scienc
 
 - 📧 **Email:** mohamed.saleh.aast@gmail.com  
 - 💼 **LinkedIn:** [Mohamed Saleh Elsayed](https://www.linkedin.com/in/mohamed-saleh-software-engineer/)  
-- 🧑‍💻 **GitHub:** [github.com/your-username](https://github.com/mohs33399)  
+- 🧑‍💻 **GitHub:** [github.com/mohs33399](https://github.com/mohs33399)  
 - 📍 **Location:** Cairo, Egypt
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&style=flat&color=orange&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=mohs33399e&style=flat&color=orange&label=PROFILE+VIEWS)
 
 ---
 
